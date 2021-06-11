@@ -1,0 +1,3 @@
+[submodule "crawler_data/cicero-template-library"]
+	path = crawler_data/cicero-template-library
+	url = https://github.com/accordproject/cicero-template-library
