@@ -28,6 +28,8 @@ This job have two propose:
 #### Data mining on template studio's data
 I [count keywords](https://github.com/EasonC13/GSoC_Accord_Project/blob/main/crawler_data/count_keyword.ipynb) (ex: buyer, seller, value) and [count datatype](https://github.com/EasonC13/GSoC_Accord_Project/blob/main/crawler_data/count_object.ipynb) (ex: Party, String) to understand the amount of data avalialbe and the summary of them.
 
+I also found a bug on template library, so I [open an issue](https://github.com/accordproject/cicero-template-library/issues/393) about it.
+
 #### Discuess with my NLP professor.
 I discuess with my NLP professor Sam for hierarchical clustering job. We figure out that our goal might be able to done via the BERT NER model with some modification on the last layer. (change to softmax output)
 
