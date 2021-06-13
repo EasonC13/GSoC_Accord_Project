@@ -39,10 +39,10 @@ I create the PPT for prototype on how user interact with model on template studi
 I will use it to discuess with Niall at Monday. Hope it can be demo on Wednesday's Technology-WG meeting.
 
 #### Plan on next week
-I think these amount of data is worthy for a try. (via pre-train model)
+I think [these amount of data](https://github.com/EasonC13/GSoC_Accord_Project/blob/main/README.md#data-mining-on-template-studios-data) is worthy for a try. (via pre-train model and snorkel)
 So my next step will devide into four part:
 
 1. create Pipeline to Prepare data for try-run NER model training.
 2. Learn on how to use Snorkel to augmented data.
 3. Research and implement on edit NER model let it have softmax-like output.
-4. Discuss UX/UI For end user to use model on template studio.
+4. Discuss UX/UI for how end user to use model on template studio with mentor.
