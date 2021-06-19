@@ -1,2 +1,6 @@
 .ipynb_checkpoints
 test_
+*.onnx
+*.pt
+*.bin
+checkpoint*
