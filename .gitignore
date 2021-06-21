@@ -1,5 +1,5 @@
 .ipynb_checkpoints
-test_
+test_*
 *.onnx
 *.pt
 *.bin
