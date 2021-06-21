@@ -66,16 +66,17 @@ Because by doing so, user can correct the model’s output before export the con
 
 Video Link: https://youtu.be/PARJ2VnCpXc
 
-![](https://i.imgur.com/NzpCHwS.png)
+<img src="https://i.imgur.com/NzpCHwS.png" width="300">
 
-![](https://i.imgur.com/RrRpsSO.png)
+<img src="https://i.imgur.com/RrRpsSO.png" width="300">
+
 
 
 #### Planning on the next step
 
-Also, I planning on the next step.
+Also, I am planning on the next step.
 
-I think "Research and implement on edit NER model let it have softmax-like output" will be the first priority. Because we can only know the data-type after knowing the model's workflow. And then we can augmented data base on that format.
+I think ["Research and implement on edit NER model let it have softmax-like output"](https://github.com/EasonC13/GSoC_Accord_Project/blob/main/README.md#plan-on-next-week) will be the first priority. Because we can only know the data-type after knowing the model's workflow. And then we can augmented data base on that format.
 
 I will start try using simpleTransformer to do it.
 
@@ -99,9 +100,9 @@ Now I’m looking on BERT NER model. try to split the last layer to let it have 
 ### 6/19 - 6/20
 
 #### Edit NER Model's Last layer to have custom multi labels
-I try simpletransformer, while it is too high-end. I might need to go down to PyTorch Level to edit the model. 
+I [try simpletransformer](https://github.com/EasonC13/GSoC_Accord_Project/blob/main/Practice/SimpleTransformer/0618_tutorial_1.ipynb), while it is too high-end. I might need to go down to PyTorch Level to edit the model. 
 
-So I looking on the PyTorch and successfully custom the last layer. Next step is preparing data and training pipeline from existing NER dataset with custom multi label to set up a pipeline to fine-tune the model.
+So I looking on the PyTorch and s[uccessfully custom the last layer](https://github.com/EasonC13/GSoC_Accord_Project/blob/main/Practice/PyTorch/NER_test/try_decompose.ipynb). Next step is preparing data and training pipeline from existing NER dataset with custom multi label to set up a pipeline to fine-tune the model.
 
 If this work, I will start to label the data I get from contract templates.
 
