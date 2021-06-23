@@ -1,4 +1,6 @@
 .ipynb_checkpoints
+test_
+node_modules
 test_*
 *.onnx
 *.pt
