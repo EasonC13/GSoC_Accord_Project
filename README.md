@@ -1,4 +1,7 @@
+# All News will first update at [accordproject/labs-cicero-classify](https://github.com/accordproject/labs-cicero-classify)
+
 # GSoC_Accord_Project
+
 
 ## Week 1 (06/07 - 06/13)
 
