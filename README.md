@@ -1,4 +1,4 @@
-# All News will first update at [accordproject/labs-cicero-classify](https://github.com/accordproject/labs-cicero-classify)
+# All News will first update at [accordproject/labs-cicero-classify](https://github.com/accordproject/labs-cicero-classify/tree/dev)
 
 # GSoC_Accord_Project
 
